@@ -1,2 +1,3 @@
-this is a software project that use antigravity .
-it tells us all detail of any kind of data set that i upload on it .
+Data Science Workbench:
+
+A Python-based data science workspace for data analysis, visualization and machine learning experimentation.
